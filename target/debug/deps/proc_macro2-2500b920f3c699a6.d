@@ -1,0 +1,11 @@
+/Users/natusdrew/wss-rust/target/debug/deps/proc_macro2-2500b920f3c699a6.rmeta: /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/lib.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/parse.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/detection.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/fallback.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/wrapper.rs
+
+/Users/natusdrew/wss-rust/target/debug/deps/libproc_macro2-2500b920f3c699a6.rlib: /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/lib.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/parse.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/detection.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/fallback.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/wrapper.rs
+
+/Users/natusdrew/wss-rust/target/debug/deps/proc_macro2-2500b920f3c699a6.d: /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/lib.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/parse.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/detection.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/fallback.rs /Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/wrapper.rs
+
+/Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/lib.rs:
+/Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/parse.rs:
+/Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/detection.rs:
+/Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/fallback.rs:
+/Users/natusdrew/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.17/src/wrapper.rs:
